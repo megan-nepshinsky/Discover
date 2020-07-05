@@ -1,0 +1,29 @@
+.flex-container {
+  display: flex;
+  justify-content: first baseline;
+}
+
+.list-groups {
+  width: 20%;
+  margin: 50px;
+}
+
+.list-group-item {
+  color: #393e46;
+}
+
+.badge {
+  background-color: #32e0c4;
+}
+
+.activity-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 30px 0px 0px 50px;
+}
+
+.activity-title {
+  text-decoration: underline;
+  text-decoration-color: #32e0c4;
+}
